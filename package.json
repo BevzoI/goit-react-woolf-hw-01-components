@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://bevzoi.github.io/goit-react-woolf-hw-01-components/",
   "dependencies": {
+    "clsx": "^2.1.0",
     "modern-normalize": "^2.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
